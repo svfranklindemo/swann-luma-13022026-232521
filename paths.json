@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/praffuls-luma-02-01-11-55/language-masters/en:/",
-    "/content/praffuls-luma-02-01-11-55/language-masters/en/:/",
-    "/content/praffuls-luma-02-01-11-55/language-masters/en/:/en/",
-    "/content/praffuls-luma-02-01-11-55/configuration:/.helix/config.json",
-    "/content/praffuls-luma-02-01-11-55/metadata:/metadata.json",
-    "/content/praffuls-luma-02-01-11-55/redirects:/redirects.json",
-    "/content/praffuls-luma-02-01-11-55/placeholders:/placeholders.json",
-    "/content/praffuls-luma-02-01-11-55/custom-events:/custom-events.json"
+    "/content/698fb2e02e0f41e872d6fa3d/language-masters/en:/",
+    "/content/698fb2e02e0f41e872d6fa3d/language-masters/en/:/",
+    "/content/698fb2e02e0f41e872d6fa3d/language-masters/en/:/en/",
+    "/content/698fb2e02e0f41e872d6fa3d/configuration:/.helix/config.json",
+    "/content/698fb2e02e0f41e872d6fa3d/metadata:/metadata.json",
+    "/content/698fb2e02e0f41e872d6fa3d/redirects:/redirects.json",
+    "/content/698fb2e02e0f41e872d6fa3d/placeholders:/placeholders.json",
+    "/content/698fb2e02e0f41e872d6fa3d/custom-events:/custom-events.json"
   ],
   "includes": [
-    "/content/praffuls-luma-02-01-11-55/",
-    "/content/dam/praffuls-luma-02-01-11-55/"
+    "/content/698fb2e02e0f41e872d6fa3d/",
+    "/content/dam/698fb2e02e0f41e872d6fa3d/"
   ]
 }
